@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ <img align="right" alt="Coding" width="400" src="[add your link 
+ here](https://i.pinimg.com/originals/11/c0/0c/11c00c702d268a5a7789e801f995fbcc.gif)">
+
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zpwhxvkpwkefol646vbgjwgmva)](https://open.spotify.com/user/31zpwhxvkpwkefol646vbgjwgmva)
 
 [![Discord](https://badgen.net/discord/members/csharp)](https://discord.com/invite/JEDCJDBbg3)
