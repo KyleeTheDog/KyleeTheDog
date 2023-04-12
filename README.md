@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zpwhxvkpwkefol646vbgjwgmva)](https://open.spotify.com/user/31zpwhxvkpwkefol646vbgjwgmva)
 
-[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://https://discord.gg/JEDCJDBbg3)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.com/invite/JEDCJDBbg3)
