@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zpwhxvkpwkefol646vbgjwgmva)](https://open.spotify.com/user/31zpwhxvkpwkefol646vbgjwgmva)
+
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/JEDCJDBbg3)
