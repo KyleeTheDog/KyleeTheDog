@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![alt text]("https://i.pinimg.com/originals/11/c0/0c/11c00c702d268a5a7789e801f995fbcc.png")
+![](https://i.pinimg.com/originals/11/c0/0c/11c00c702d268a5a7789e801f995fbcc.png)
+
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31zpwhxvkpwkefol646vbgjwgmva)](https://open.spotify.com/user/31zpwhxvkpwkefol646vbgjwgmva)
 
